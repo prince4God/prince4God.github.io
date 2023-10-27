@@ -1,5 +1,6 @@
 # prince4God.github.io
 WordForTodayDevotional
+
 Thursday October 26, 2023
 
 HOW TO RECOGNIZE THIS WISDOM (7):  WITHOUT HYPOCRISY 
