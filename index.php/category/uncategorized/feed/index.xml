@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; Royalty TV</title>
-	<atom:link href="https://github.com/prince4God/prince4God.github.io.git/index.php/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.com/prince4God/prince4God.github.io.git</link>
+	<atom:link href="//home/prince/Code/WordpressGit/prince4God.github.io/index.php/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>//home/prince/Code/WordpressGit/prince4God.github.io</link>
 	<description>Lord Yahushua HaMashiach, Jesus Christ, Gospel, WordForTodayDevotional</description>
 	<lastBuildDate>Fri, 27 Oct 2023 11:07:47 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,13 +21,13 @@
 	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
 		<title>WordForTodayDevotional</title>
-		<link>https://github.com/prince4God/prince4God.github.io.git/index.php/2023/10/26/hello-world/</link>
-					<comments>https://github.com/prince4God/prince4God.github.io.git/index.php/2023/10/26/hello-world/#comments</comments>
+		<link>//home/prince/Code/WordpressGit/prince4God.github.io/index.php/2023/10/26/hello-world/</link>
+					<comments>//home/prince/Code/WordpressGit/prince4God.github.io/index.php/2023/10/26/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[royaltytv]]></dc:creator>
 		<pubDate>Thu, 26 Oct 2023 10:34:30 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://github.com/prince4God/prince4God.github.io.git/?p=1</guid>
+		<guid isPermaLink="false">//home/prince/Code/WordpressGit/prince4God.github.io/?p=1</guid>
 
 					<description><![CDATA[&#8230;connecting to the Word daily.]]></description>
 										<content:encoded><![CDATA[
@@ -35,10 +35,10 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" fetchpriority="high" width="500" height="500" src="https://github.com/prince4God/prince4God.github.io.git/wp-content/uploads/2023/10/WordForTodayLogo.png" alt="" class="wp-image-16" srcset="https://github.com/prince4God/prince4God.github.io.git/wp-content/uploads/2023/10/WordForTodayLogo.png 500w, https://github.com/prince4God/prince4God.github.io.git/wp-content/uploads/2023/10/WordForTodayLogo-300x300.png 300w, https://github.com/prince4God/prince4God.github.io.git/wp-content/uploads/2023/10/WordForTodayLogo-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" fetchpriority="high" width="500" height="500" src="//home/prince/Code/WordpressGit/prince4God.github.io/wp-content/uploads/2023/10/WordForTodayLogo.png" alt="" class="wp-image-16" srcset="//home/prince/Code/WordpressGit/prince4God.github.io/wp-content/uploads/2023/10/WordForTodayLogo.png 500w, //home/prince/Code/WordpressGit/prince4God.github.io/wp-content/uploads/2023/10/WordForTodayLogo-300x300.png 300w, //home/prince/Code/WordpressGit/prince4God.github.io/wp-content/uploads/2023/10/WordForTodayLogo-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" /></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://github.com/prince4God/prince4God.github.io.git/index.php/2023/10/26/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>//home/prince/Code/WordpressGit/prince4God.github.io/index.php/2023/10/26/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
